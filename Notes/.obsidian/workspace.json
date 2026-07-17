@@ -183,9 +183,14 @@
       "bases:Create new base": false
     }
   },
+<<<<<<< HEAD
   "active": "1ba151a1d397851f",
   "lastOpenFiles": [
     "Cybersecurity/Pre-CPTS/Linux Fundamentals.md",
     "Cybersecurity/Pre-CPTS/Bekende Commands.md"
   ]
+=======
+  "active": "3757840e45062331",
+  "lastOpenFiles": []
+>>>>>>> 3754b9c888502572476fd33687eba5cc21728db2
 }
